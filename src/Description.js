@@ -4,14 +4,13 @@ function Description() {
   return (
     <div style={{ padding: "20px", fontFamily: "Arial, sans-serif" }}>
       <h1>
-        DeepScan AI Tool - Sign & More DistributionTestFlightXcode Cloud - Your
-        Ultimate Document & Image Tool
+        iLoveScan: AI PDF Editor Scan - Your Ultimate Document & Image Tool
       </h1>
       <p>
-        DeepScan AI is the all-in-one solution for scanning, editing, and
-        converting documents and images effortlessly. Whether you need to
-        extract text with OCR, edit and enhance images, sign PDFs, or convert
-        files, DeepScan AI has you covered.
+        iLoveScan: AI PDF Editor Scan is the all-in-one solution for scanning,
+        editing, and converting documents and images effortlessly. Whether you
+        need to extract text with OCR, edit and enhance images, sign PDFs, or
+        convert files, iLoveScan: AI PDF Editor Scan has you covered.
       </p>
       <ul>
         <li>
@@ -37,7 +36,7 @@ function Description() {
       </ul>
       <p>
         Simplify your workflow and enhance productivity with AI-powered document
-        and image processing. Download DeepScan AI today!
+        and image processing. Download iLoveScan: AI PDF Editor Scan AI today!
       </p>
     </div>
   );

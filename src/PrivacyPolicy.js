@@ -6,9 +6,9 @@ function PrivacyPolicy() {
     <div style={{ padding: "20px", fontFamily: "Arial, sans-serif" }}>
       <h1>Privacy Policy</h1>
       <p>
-        Thank you for using "DeepScan AI Tools - Sign, Compress & More" (the
-        "App"). Your privacy is important to us. This Privacy Policy explains
-        how we collect, use, and protect your information when you use the App.
+        Thank you for using "iLoveScan: AI PDF Editor Scan" (the "App"). Your
+        privacy is important to us. This Privacy Policy explains how we collect,
+        use, and protect your information when you use the App.
       </p>
 
       <h2>1. Information We Collect</h2>
